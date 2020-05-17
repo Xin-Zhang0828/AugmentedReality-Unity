@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3225530B-03F6-9D02-1713-ED26C7A5F27D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UniWebView/Interface/UniWebViewAndroid.cs">
+    <Files>
+      <File FileName="Assets/UniWebView/Interface/UniWebViewAndroid.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARAssignment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UniWebView" expanded="True">
+                <Node name="Interface" expanded="True">
+                  <Node name="UniWebViewAndroid.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="487829b2-12d4-4ec3-afba-13b2b3c15ff4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
