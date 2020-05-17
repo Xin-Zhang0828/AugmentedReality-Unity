@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Whale" size="0.200000 0.282896" />
+    <ImageTarget name="Jelly" size="16.000000 22.631699" />
+    <ImageTarget name="Turtle" size="0.200000 0.282778" />
+    <ImageTarget name="WhiteWhale" size="0.200000 0.282778" />
+    <ImageTarget name="Bird" size="0.200000 0.282778" />
+    <ImageTarget name="timg" size="20.000000 13.333333" />
+  </Tracking>
+</QCARConfig>
